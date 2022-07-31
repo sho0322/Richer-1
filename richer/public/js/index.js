@@ -1,13 +1,32 @@
 /******/ (() => { // webpackBootstrap
+<<<<<<< HEAD
 /******/ 	"use strict";
 /******/ 	var __webpack_modules__ = ({
 
+=======
+/******/ 	var __webpack_modules__ = ({
+
+/***/ "./resources/ts/index.ts":
+/*!*******************************!*\
+  !*** ./resources/ts/index.ts ***!
+  \*******************************/
+/***/ (() => {
+
+
+
+/***/ }),
+
+>>>>>>> local_a
 /***/ "./resources/sass/index.scss":
 /*!***********************************!*\
   !*** ./resources/sass/index.scss ***!
   \***********************************/
 /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
 
+<<<<<<< HEAD
+=======
+"use strict";
+>>>>>>> local_a
 __webpack_require__.r(__webpack_exports__);
 // extracted by mini-css-extract-plugin
 
@@ -151,6 +170,10 @@ __webpack_require__.r(__webpack_exports__);
 /******/ 	// startup
 /******/ 	// Load entry module and return exports
 /******/ 	// This entry module depends on other loaded chunks and execution need to be delayed
+<<<<<<< HEAD
+=======
+/******/ 	__webpack_require__.O(undefined, ["css/index"], () => (__webpack_require__("./resources/ts/index.ts")))
+>>>>>>> local_a
 /******/ 	var __webpack_exports__ = __webpack_require__.O(undefined, ["css/index"], () => (__webpack_require__("./resources/sass/index.scss")))
 /******/ 	__webpack_exports__ = __webpack_require__.O(__webpack_exports__);
 /******/ 	
